@@ -35,7 +35,7 @@ At UPS, I led teams, helped employees resolve day-to-day issues, trained supervi
 
 ## Education and learning
 
-- **CompTIA A+** — earned.
+- **CompTIA A+** — Expires September 2029.
 - **CompTIA Security+ (SY0-701)** — studying.
 - **Florida International University** — B.A. in Liberal Studies; minors in Psychology and Criminal Justice.
 - **Flatiron School** — data science coursework and projects.
